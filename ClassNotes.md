@@ -1,0 +1,25 @@
+# GenAI you will use to
+
+# 1. Speed up your workflows
+
+# 2. Enhance your code efficiency
+
+# 3. Help with debugging and refactoring
+
+# Day 1: Focus on 4 Different Packages/Libraries
+
+1. Pandas (comes from "Panel Data Analysis" hence the name)
+    - Matplotlib is the powerhouse OG, but Seaborn makes it easier to write visualizations and can make them
+    -
+
+2. Matplotlib: The OG, the classic cookbook for visualizing data in clean, simple charts
+
+3. Seaborn: based on matplotlib, but simpler to use (Seaborn is an extension package and the plots look prettier)
+
+4. Plotly: This is the interactive dish, bringing visualizations available to your audience and allowing them to learn more about the data just by hovering over data points, and so on.
+
+# Generative AI
+### Think of GenAI as a study buddy that never sleeps. 24/7 Learning Companion, 
+
+
+
