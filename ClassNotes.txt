@@ -9,20 +9,16 @@ GenAI you will use to
 Day 1: Focus on 4 Different Packages/Libraries
 
 1.  Pandas (comes from “Panel Data Analysis” hence the name)
-
-    - Matplotlib is the powerhouse OG, but Seaborn makes it easier to
-      write visualizations and can make them
+    - Pandas is a powerful library for data manipulation and analysis, providing flexible data structures like DataFrames for cleaning, transforming, and exploring datasets.
 
 2.  Matplotlib: The OG, the classic cookbook for visualizing data in
     clean, simple charts
+    - Matplotlib is the powerhouse OG for creating a wide variety of static, animated, and interactive visualizations in Python.
 
 3.  Seaborn: based on matplotlib, but simpler to use (Seaborn is an
     extension package and the plots look prettier)
+    - Seaborn builds on Matplotlib and makes it easier to write visualizations with attractive default styles and additional plot types.
 
 4.  Plotly: This is the interactive dish, bringing visualizations
     available to your audience and allowing them to learn more about the
     data just by hovering over data points, and so on.
-
-Generative AI
-
-Think of GenAI as a study buddy that never sleeps. 24/7 Learning Companion
