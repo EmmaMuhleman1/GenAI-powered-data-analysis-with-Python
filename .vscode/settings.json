@@ -8,5 +8,7 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true,
-    "editor.defaultFormatter": "google.gemini-cli-vscode-ide-companion"
+    "editor.defaultFormatter": "google.gemini-cli-vscode-ide-companion",
+    "aws.telemetry": false,
+    "amazonQ.telemetry": false
 }
